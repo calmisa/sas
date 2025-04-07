@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Те Гуань Инь",
+      "category": "light-oolong",
+      "price": 890,
+      "weight": "50г",
+      "description": "Классический улун с цветочным ароматом и сладким послевкусием",
+      "image": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+      "id": "2",
+      "name": "Дахунпао",
+      "category": "dark-oolong",
+      "price": 1200,
+      "weight": "50г",
+      "description": "Знаменитый темный улун с насыщенным вкусом и долгим послевкусием",
+      "image": "https://images.unsplash.com/photo-1557816274-5d334c87675f?auto=format&fit=crop&q=80&w=800"
+    }
+  ]
+}
